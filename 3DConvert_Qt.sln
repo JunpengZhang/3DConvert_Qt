@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3DConvert_Qt", "3DConvert_Qt.vcxproj", "{98D25555-2B00-403F-BFEC-5DD3F8D3B554}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98D25555-2B00-403F-BFEC-5DD3F8D3B554}.Debug|x64.ActiveCfg = Debug|x64
+		{98D25555-2B00-403F-BFEC-5DD3F8D3B554}.Debug|x64.Build.0 = Debug|x64
+		{98D25555-2B00-403F-BFEC-5DD3F8D3B554}.Release|x64.ActiveCfg = Release|x64
+		{98D25555-2B00-403F-BFEC-5DD3F8D3B554}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CE667C4-D1D3-4A2F-8D53-FE58A6AA5952}
+	EndGlobalSection
+EndGlobal
